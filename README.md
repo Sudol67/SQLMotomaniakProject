@@ -1,1 +1,1 @@
-# Biologiczne Bazy Danych SQL
+# SQL based C# app for automotive workshop/car dealership
